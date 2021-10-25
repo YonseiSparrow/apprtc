@@ -6,7 +6,6 @@ bower_components
 browser*
 firefox*
 node_modules
-out
 secrets.json
 source-context*.json
 temp/*
